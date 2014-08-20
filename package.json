@@ -1,0 +1,29 @@
+{
+  "name": "measure-time",
+  "version": "0.0.0",
+  "description": "Create benchmark suites and see the time consumption per given functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "benchmark",
+    "time",
+    "timer",
+    "performance",
+    "analysis",
+    "compare"
+  ],
+  "repository": {
+    "url": "git@github.com:azer/measure-time.git",
+    "type": "git"
+  },
+  "author": "azer",
+  "license": "BSD",
+  "dependencies": {
+    "local-debug": "0.0.0",
+    "new-command": "^1.0.2",
+    "serial-loop": "0.0.1",
+    "cli-table": "^0.3.0"
+  }
+}

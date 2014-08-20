@@ -1,0 +1,12 @@
+    USAGE
+
+        node [module] [options]
+
+    OPTIONS
+
+        -t    --times        Run each test given times. Default=100
+
+        -g    --grep         Only run the tests matching given pattern.
+
+        -v    --version      Show version and exit
+        -h    --help         Show help and exit
