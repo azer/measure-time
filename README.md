@@ -28,7 +28,7 @@ with a done function that should be called once the function is done its job:
 ```js
 var time = require('measure-time')
 
-time('do something', function (done) {
+time('do something', function (done) { // done can be called also as "t" to mock tape
   dosomething()
   done()
 });
