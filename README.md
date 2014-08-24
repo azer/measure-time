@@ -2,7 +2,7 @@
 
 Create benchmark suites and see the time consumption per given functions.
 
-![](https://i.cloudup.com/KFIKNICCQM.png)
+![](https://i.cloudup.com/6QcQ_Oyq76.png)
 
 ## Install
 
