@@ -24,6 +24,7 @@
     "local-debug": "0.0.0",
     "new-command": "^1.0.2",
     "serial-loop": "0.0.1",
-    "cli-table": "^0.3.0"
+    "cli-table": "^0.3.0",
+    "stdev": "0.0.1"
   }
 }
